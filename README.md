@@ -2,7 +2,7 @@
 📝
 ## Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MacroKeke/kelimebot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kakkurt947/denemekelime)
 
 <h4>🔺 Okteto ile Kurulum 🔻</h4> 
 
